@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/arrow.png</file>
+        <file>images/back.png</file>
+        <file>images/drawer.png</file>
+        <file>images/menu.png</file>
+        <file>pages/myTreeView.qml</file>
+        <file>pages/myBasicView.qml</file>
+        <file>pages/KqTreeView.qml</file>
+    </qresource>
+</RCC>
